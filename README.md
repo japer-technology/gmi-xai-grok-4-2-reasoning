@@ -1,6 +1,6 @@
 see: [**Issues**](https://github.com/japer-technology/gmi-xai-grok-4-2-reasoning/issues/2)
 
-# gmi-xai-grok-4-2-reasoning
+#### gmi-xai-grok-4-2-reasoning
 
 **This repository demonstrates a living, breathing AI agent named Borel.**
 
