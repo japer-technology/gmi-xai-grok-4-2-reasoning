@@ -1,5 +1,5 @@
 {
-  "defaultProvider": "openai",
-  "defaultModel": "gpt-5.4",
-  "defaultThinkingLevel": "high"
+  "defaultProvider": "xai",
+  "defaultModel": "grok-4.20-beta",
+  "defaultThinkingLevel": "medium"
 }
